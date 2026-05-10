@@ -1,2 +1,18 @@
-# developer-state-monitor
-Information-analytical system for developer state monitoring and control
+# Developer State Monitor
+
+Информационно-аналитическая система управления состоянием разработчика.
+
+## Возможности
+
+- анализ GitHub активности;
+- оценка эмоционального состояния;
+- расчёт вектора состояния;
+- формирование управляющих воздействий;
+- визуализация состояния разработчика.
+
+## Технологии
+
+- Python
+- Streamlit
+- GitHub API
+- Pandas
